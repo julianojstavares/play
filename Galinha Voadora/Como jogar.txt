@@ -1,6 +1,6 @@
-- Use um cabo USB para colocar o .APK do jogo no seu smatphone
-- Autorize a instalação de "fontes desconhecidas" nas configurações de segurança de seu aparelho
+- Use um cabo USB para colocar o .APK do jogo no seu smartphone
+- Autorize a instalaÃ§Ã£o de "fontes desconhecidas" nas configuraÃ§Ãµes de seguranÃ§a de seu aparelho
 - Instale o jogo
-- Jogue com a tela em posição horizontal
+- Jogue com a tela em posiÃ§Ã£o horizontal
 - Arraste a galinha com seu dedo para desviar dos objetos
 
