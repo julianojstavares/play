@@ -1,0 +1,5 @@
+- Use um cabo USB para colocar o .APK do jogo no seu smatphone
+- Autorize a instalação de "fontes desconhecidas" nas configurações de segurança de seu aparelho
+- Instale o jogo
+- Jogue com a tela em posição horizontal
+- Acerte a sequência para ganhar pontos

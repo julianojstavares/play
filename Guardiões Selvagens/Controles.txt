@@ -1,0 +1,15 @@
+REINICIAR = I
+SAIR	  = O
+
+URSO (PLAYER 1)
+
+	A플O 1 = 1
+	A플O 2 = 2
+	MOVER  = WASD
+
+
+GUAXINIM (PLAYER 2)
+	
+	A플O 1 = K
+	A플O 2 = L
+	MOVER  = SETAS DIRECIONAIS	
