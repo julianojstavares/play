@@ -1,4 +1,4 @@
-- Use um cabo USB para colocar o .APK do jogo no seu smartphone
+- Use um cabo USB para colocar o .APK do jogo no seu smartphone Android
 - Autorize a instalação de "fontes desconhecidas" nas configurações de segurança de seu aparelho
 - Instale o jogo
 - Jogue com a tela em posição horizontal
